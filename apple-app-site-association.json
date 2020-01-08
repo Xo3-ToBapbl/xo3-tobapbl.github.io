@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "75699WJGLX.com.godeltech.assignmentmanager.test",
+            "paths": ["/performance-review/form/*"]
+        }]
+    }
+}

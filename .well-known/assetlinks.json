@@ -1,0 +1,14 @@
+[
+   {
+      "relation":[
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{
+         "namespace":"android_app",
+         "package_name":"com.godeltech.assignmentmanagermobile.droid",
+         "sha256_cert_fingerprints":[
+            "BE:DC:CB:D1:31:CE:C9:A4:39:D9:B2:DE:BE:50:67:D9:78:48:ED:F5:7C:1D:7A:A1:C8:F2:A3:39:BB:14:7E:B1"
+         ]
+      }
+   }
+]

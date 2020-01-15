@@ -1,8 +1,17 @@
 {
     "applinks": {
         "apps": [],
-        "details": [{
+        "details": [
+		{
+            "appID": "75699WJGLX.com.godeltech.assignmentmanager.debug",
+            "paths": ["/performance-review/form/*"]
+        },
+		{
             "appID": "75699WJGLX.com.godeltech.assignmentmanager.test",
+            "paths": ["/performance-review/form/*"]
+        },
+		{
+            "appID": "75699WJGLX.com.godeltech.assignmentmanager.store",
             "paths": ["/performance-review/form/*"]
         }]
     }

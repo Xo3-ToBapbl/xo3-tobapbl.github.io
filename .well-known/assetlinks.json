@@ -5,9 +5,33 @@
       ],
       "target":{
          "namespace":"android_app",
-         "package_name":"com.godeltech.assignmentmanagermobile.droid",
+         "package_name":"com.godeltech.assignmentmanagermobile.droid.debug",
          "sha256_cert_fingerprints":[
-            "BE:DC:CB:D1:31:CE:C9:A4:39:D9:B2:DE:BE:50:67:D9:78:48:ED:F5:7C:1D:7A:A1:C8:F2:A3:39:BB:14:7E:B1"
+            "63:43:BF:85:E0:B2:87:BE:AF:7A:A1:60:BF:96:A2:13:BD:4A:50:99:6F:CF:A3:16:B1:09:B0:46:57:4D:65:9A"
+         ]
+      }
+   },
+   {
+      "relation":[
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{
+         "namespace":"android_app",
+         "package_name":"com.godeltech.assignmentmanagermobile.droid.test",
+         "sha256_cert_fingerprints":[
+            "63:43:BF:85:E0:B2:87:BE:AF:7A:A1:60:BF:96:A2:13:BD:4A:50:99:6F:CF:A3:16:B1:09:B0:46:57:4D:65:9A"
+         ]
+      }
+   },
+   {
+      "relation":[
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{
+         "namespace":"android_app",
+         "package_name":"com.godeltech.assignmentmanagermobile.droid.store",
+         "sha256_cert_fingerprints":[
+            "43:0E:64:D2:31:D0:0B:46:F5:49:2E:A9:7A:8B:C8:73:3E:F4:EA:F3:F9:EF:B0:99:80:B5:D9:88:91:DC:F9:6D"
          ]
       }
    }
